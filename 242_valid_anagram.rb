@@ -6,4 +6,3 @@ def is_anagram(s, t)
 end
 
 
-array = ["r","e","g","e","d","f","h","e","r","t","s","h"]
